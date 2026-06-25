@@ -52,8 +52,7 @@ flutter pub get
 flutter run --dart-define=OPENROUTER_API_KEY=ваш_ключ
 ```
 
-## Безопасность
+## Примечание
 
-- Не коммитьте `lib/firebase_options.dart`, `google-services.json`, `GoogleService-Info.plist`
-- Не добавляйте API-ключи в исходный код
-- Если ключ OpenRouter когда-либо попал в публичный репозиторий — отзовите его на [openrouter.ai](https://openrouter.ai)
+Секреты (Firebase-конфиг и API-ключи) не включены в репозиторий.  
+Для локального запуска скопируйте `.example`-файлы и передайте ключ OpenRouter через `--dart-define`.
