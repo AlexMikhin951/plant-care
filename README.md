@@ -1,4 +1,6 @@
 Flutter-приложение для ухода за растениями: распознавание по фото (AI), напоминания об уходе, синхронизация через Firebase.
+
+
 <img width="426" height="902" alt="image" src="https://github.com/user-attachments/assets/cb39c971-f828-4b4a-bdd4-e93a1bf01cb8" />
 <img width="471" height="960" alt="image" src="https://github.com/user-attachments/assets/8bd49016-e945-4fee-8141-d05869ecd7fa" />
 <img width="534" height="1147" alt="image" src="https://github.com/user-attachments/assets/f4d497f9-948a-4163-ba3e-322b28fe4d1d" />
