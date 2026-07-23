@@ -1,10 +1,10 @@
-# GitHub Linguist: this is a Flutter/Dart project; platform boilerplate is not app code.
-lib/** linguist-language=Dart
-android/** linguist-vendored
-ios/** linguist-vendored
-linux/** linguist-vendored
-macos/** linguist-vendored
-windows/** linguist-vendored
-web/** linguist-vendored
-assets/** linguist-vendored
-android/build/** linguist-generated
+# Ensure Dart/Flutter source is counted for GitHub language stats
+*.dart linguist-detectable=true
+lib/** linguist-documentation=false
+
+android/** linguist-generated=true
+ios/** linguist-generated=true
+linux/** linguist-generated=true
+macos/** linguist-generated=true
+windows/** linguist-generated=true
+web/** linguist-generated=true
